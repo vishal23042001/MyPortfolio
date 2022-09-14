@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+.header{
+    background-color: #f7f7f7;
+    height: 100%;
+    width: 100%;
+}
+.cloud-u{
+    position: relative;
+    left: 300px;
+    top: 30px;
+}
+
+.mountain{
+    position: relative;
+    right: 100px;
+    top: 50px;
+}
+.cloud-d{
+    position: relative;
+    bottom: 300px;
+    right: 90px;
+}
+.nav{
+    position: fixed ;
+    height: 100px;
+    width: 100%;
+    display: block;
+
+}
+ul{
+    position: relative;
+    right: 80px;
+}
+#logo{
+    width: 90px;
+    
+}
+.hr1{
+    
+    color: white;
+    height: 2px;
+}
